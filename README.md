@@ -5,6 +5,6 @@ The model will be trained on the Facebook Babi Dataset, which consists will have
 
 https://research.fb.com/downloads/babi/
 
-To learn more about End-to-End Memory Networks, please find the following paper:
+To learn more about End-to-End Memory Networks, please read the following paper: https://arxiv.org/pdf/1503.08895.pdf
 
-https://arxiv.org/pdf/1503.08895.pdf
+To see more explanations and results, please visit the following link: https://hjmok.github.io/josephmok_portfolio/#/CB
